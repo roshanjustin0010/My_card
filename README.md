@@ -1,3 +1,6 @@
-flutter app 
+A flutter app with basic layout with baisc widgets 
 
-personal card
+it is a personal card app with personal details
+
+
+
